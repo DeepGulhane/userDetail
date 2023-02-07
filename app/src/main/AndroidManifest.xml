@@ -15,10 +15,8 @@
             android:name=".MainActivity3"
             android:exported="false" />
         <activity
+
             android:name=".MainActivity2"
-            android:exported="false" />
-        <activity
-            android:name=".UserList"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
